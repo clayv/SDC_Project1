@@ -1,7 +1,3 @@
-##Writeup Template
-
-###You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Finding Lane Lines on the Road**
@@ -29,7 +25,7 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-###1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+###1. The pipeline
 
 My pipeline consisted of 6 steps:
 1. Convert image to grayscale
@@ -61,9 +57,9 @@ Some example of the pipeline on still images are below:
 | ![][image7] |   ![][image8]  |
 | ![][image9] |   ![][image10] |
 
-Videos demonstrating the pipeline are included in the project as well ([white](white.mp4), [yellow](yellow.mp4), [extra](extra.mp4).
+Videos demonstrating the pipeline are included in the project as well ([white](white.mp4), [yellow](yellow.mp4), [extra](extra.mp4)).
 
-###2. Potential shortcomings with your current pipeline
+###2. Potential shortcomings with the current pipeline
 
 The region of interest is very narrow at the top and as a result would be very sensitive to the camera's pitch relative to the road.
 
