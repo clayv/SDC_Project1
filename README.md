@@ -1,3 +1,7 @@
+##Writeup Template
+
+###You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+
 ---
 
 **Finding Lane Lines on the Road**
@@ -59,7 +63,7 @@ Some example of the pipeline on still images are below:
 
 Videos demonstrating the pipeline are included in the project as well ([white](white.mp4), [yellow](yellow.mp4), [extra](extra.mp4)).
 
-###2. Potential shortcomings with the current pipeline
+###2. Potential shortcomings with your current pipeline
 
 The region of interest is very narrow at the top and as a result would be very sensitive to the camera's pitch relative to the road.
 
