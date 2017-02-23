@@ -46,42 +46,49 @@ The final part of process is to merge the lines which is done by taking the aver
 That single line is the one overlayed over original image.
 
 Some example of the pipeline on still images are below:
+
 ---
 Before:
 ![][image1]
 
 After:
 ![][image2]
+
 ---
 Before:
 ![][image3]
 
 After:
 ![][image4]
+
 ---
 Before:
 ![][image5]
 
 After:
 ![][image6]
+
 ---
 Before:
 ![][image7]
 
 After:
 ![][image8]
+
 ---
 Before:
 ![][image9]
 
 After:
 ![][image10]
+
 ---
 Before:
 ![][image11]
 
 After:
 ![][image12]
+
 ---
 
 Videos demonstrating the pipeline are included in the project as well ([white](white.mp4), [yellow](yellow.mp4), [extra](extra.mp4)).
