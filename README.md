@@ -14,17 +14,17 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./test_images/solidWhiteCurve.jpg "Solid White Curve - Before"
-[image2]: ./lined_test_images/solidWhiteCurve.jpg "Solid White Curve - After"
+[image2]: ./lined_test_images/lined_solidWhiteCurve.jpg "Solid White Curve - After"
 [image3]: ./test_images/solidWhiteRight.jpg "Solid White Right - Before"
-[image4]: ./lined_test_images/solidWhiteRight.jpg "Solid White Right - After"
+[image4]: ./lined_test_images/lined_solidWhiteRight.jpg "Solid White Right - After"
 [image5]: ./test_images/solidYellowCurve.jpg "Solid Yellow Curve - Before"
-[image6]: ./lined_test_images/solidYellowCurve.jpg "Solid Yellow Curve - After"
+[image6]: ./lined_test_images/lined_solidYellowCurve.jpg "Solid Yellow Curve - After"
 [image7]: ./test_images/solidYellowCurve2.jpg "Solid Yellow Curve 2 - Before"
-[image8]: ./lined_test_images/solidYellowCurve2.jpg "Solid Yellow Curve 2 - After"
+[image8]: ./lined_test_images/lined_solidYellowCurve2.jpg "Solid Yellow Curve 2 - After"
 [image9]: ./test_images/solidYellowLeft.jpg "Solid Yellow Left - Before"
-[image10]: ./lined_test_images/solidYellowLeft.jpg "Solid Yellow Left - After"
+[image10]: ./lined_test_images/lined_solidYellowLeft.jpg "Solid Yellow Left - After"
 [image11]: ./test_images/whiteCarLaneSwitch.jpg "White Car Lane Switch - Before"
-[image12]: ./lined_test_images/whiteCarLaneSwitch.jpg "White Car Lane Switch - After"
+[image12]: ./lined_test_images/lined_whiteCarLaneSwitch.jpg "White Car Lane Switch - After"
 ---
 
 ### Reflection
